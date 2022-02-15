@@ -1,0 +1,34 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.btn {
+  @apply transition-colors px-3 py-2;
+}
+.btn-lg {
+  @apply transition-colors px-6 py-2;
+}
+.indigo {
+  @apply bg-indigo-500 hover:bg-indigo-600 ring-indigo-700 focus:ring-2 text-white;
+}
+.orange {
+  @apply bg-orange-500 hover:bg-orange-600 ring-orange-700 focus:ring-2 text-white;
+}
+.black {
+  @apply bg-gray-800 hover:bg-gray-900 ring-gray-500;
+}
+.trans {
+  @apply bg-gray-50 hover:bg-gray-100;
+}
+.head {
+  @apply font-semibold text-base tracking-wide;
+}
+.headsm {
+  @apply font-semibold text-sm;
+}
+
+.sidebarBtn {
+  @apply btn block bg-gray-50 font-medium text-left text-indigo-800 my-1 border border-indigo-100 w-full rounded hover:bg-indigo-200 hover:text-gray-50  duration-300;
+}
