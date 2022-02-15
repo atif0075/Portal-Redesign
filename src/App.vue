@@ -14,8 +14,9 @@ export default {
 </script>
 
 <style>
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap");
 * {
-  font-family: "poppins";
+  font-family: "Lato", sans-serif;
   scrollbar-width: thin;
 }
 body::-webkit-scrollbar {

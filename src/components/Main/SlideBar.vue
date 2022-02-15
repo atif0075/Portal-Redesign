@@ -1,7 +1,7 @@
 <template>
     <section>
         <main>
-            <button class="sidebarBtn">Welcome To Riphah Fsd</button>
+            
             <button class="sidebarBtn">
                 <router-link to="/profile">View Profile</router-link>
             </button>
