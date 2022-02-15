@@ -14,7 +14,7 @@
                 class="text-base text-indigo-400 trans font-semibold w-2/5 py-3"
             >Education</button>
         </div>
-        <div class="w-full h-full">
+        <div class="w-full h-full overflow-scroll">
             <keep-alive>
                 <component :is="currentTabComponent"></component>
             </keep-alive>

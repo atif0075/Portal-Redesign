@@ -1,94 +1,102 @@
 <template>
-    <section class="grid grid-cols-3 gap-1">
-        <main></main>
+    <section class="grid grid-cols-3 gap-1 p-2">
+        <main class="text-sm">
+            <br />Account ID: 64147
+            <br />Reg Date: 11/15/2019 3:28:12 PM
+            <br />Email: chatif476@gmail.com
+            <br />Home Phone: +92 (30) 0042250
+            <br />Work Phone: +92 (30) 2979842
+            <br />Phone Ext:
+            <br />Mobile: +92 (302) 9798428
+            <br />Register Date: 11/15/2019 3:28:12 PM
+            <br />Gender: Male
+            <br />Fax: 041
+            <br />Zip Postal: 38000
+            <br />Address 1: Chak no 261 R.B Udhowali, Faisalabad
+            <br />Address 2: Chak no 261 R.B Udhowali, Faisalabad
+            <br />Date of Birth: 3/9/2002 10:12:20 AM
+            <br />First Name: MUHAMMAD ATIF MEHMOOD
+            <br />Last Name: IFTIKHAR ALI
+            <br />Husband Name:
+            <br />Religion: isalm
+            <br />Marital Status: Single
+            <br />Nationality: Pakistan
+            <br />Domicile City: Faisalabad
+            <br />Mother Tongue: Punjabi
+            <br />Enrolled As: Local Student
+            <br />Roll No: 15320
+            <br />Registration No: F19A14U05113
+            <br />Examination ID: F19A14U05113
+            <br />Degree Timing: Morning
+            <br />Student Status: Student Status
+            <br />Guardian Name:
+        </main>
+        <main class="text-sm">
+            <br />Guardian CNIC:
+            <br />Guardian Mobile:
+            <br />Study Session: Fall 2019
+            <br />Enrolled In: Fall 2019
+            <br />Current Semester: 5
+            <br />Emergency Contact Name: Kashif
+            <br />Emergency Contact No: +92 (300) 0422509
+            <br />SS Number: Social Security No
+            <br />NTN:
+            <br />Private Email: chatif476@gmail.com
+            <br />Office Phone: +22 (xx) xxxxxxx
+            <br />Blood: A-
+            <br />Passport No:
+            <br />House No: House
+            <br />Street No: Street
+            <br />Colony Town: Colony
+            <br />District: Faisalabad
+            <br />Disability: False
+            <br />Disability Details:
+            <br />Is Criminal: False
+            <br />Criminal Details: Criminal Details
+            <br />CNIC: 33100-1430775-3
+            <br />Is Hafiz: False
+            <br />Is Admission Confirm: True
+            <br />Deficiency Docs:
+            <br />Section Name: B
+            <br />Active From Account: True
+            <br />Can Login:
+            <br />Account Verify: True
+        </main>
+        <main class="text-sm">
+            <br />Dsa Verify: True
+            <br />Country Name: Pakistan
+            <br />Dept Name: Department of Computing
+            <br />City Name: Faisalabad
+            <br />Tehsil Name: Faisalabad City
+            <br />College Name: Riphah College Of Computing
+            <br />Province: Punjab
+            <br />Degree Name: BS Software Engineering
+            <br />Degree Program Certificate Title: Fsc
+            <br />Year Of Passing: 2019
+            <br />Institute Name: Govt Comprehensive Higher Secondary School
+            <br />Institute Catagory: Public
+            <br />Institute Country: Pakistan
+            <br />Exam Institute: Govt Comprehensive Higher Secondary School
+            <br />Exam Institute Country: 1
+            <br />CGPA/Obtained Marks: 670
+            <br />Total CGPA/Total Marks: 1100
+            <br />Awarded Grade: B
+            <br />Total Cr Hours: 0
+            <br />Transcript No: 437713
+            <br />Result Declaration Date: 9/4/2019 10:12:20 AM
+            <br />Degree OR Certificate No: 545569-IFR-2017
+            <br />Degree OR Certificate Date: 9/4/2019 10:12:20 AM
+            <br />Discipline OR Subject: Science
+            <br />Sub Discipline OR Subject: Pre-Engineering
+            <br />Project Research Title: Nill
+        </main>
     </section>
 </template>
 
 <script>
-// Account ID: 64147
-// Reg Date: 11/15/2019 3:28:12 PM
-// Email: chatif476@gmail.com
-// Home Phone: +92 (30) 0042250
-// Work Phone: +92 (30) 2979842
-// Phone Ext:
-// Mobile: +92 (302) 9798428
-// Register Date: 11/15/2019 3:28:12 PM
-// Gender: Male
-// Fax: 041
-// Zip Postal: 38000
-// Address 1: Chak no 261 R.B Udhowali, Faisalabad
-// Address 2: Chak no 261 R.B Udhowali, Faisalabad
-// Date of Birth: 3/9/2002 10:12:20 AM
-// First Name: MUHAMMAD ATIF MEHMOOD
-// Last Name: IFTIKHAR ALI
-// Husband Name:
-// Religion: isalm
-// Marital Status: Single
-// Nationality: Pakistan
-// Domicile City: Faisalabad
-// Mother Tongue: Punjabi
-// Enrolled As: Local Student
-// Roll No: 15320
-// Registration No: F19A14U05113
-// Examination ID: F19A14U05113
-// Degree Timing: Morning
-// Student Status: Student Status
-// Guardian Name:
-// Guardian CNIC:
-// Guardian Mobile:
-// Study Session: Fall 2019
-// Enrolled In: Fall 2019
-// Current Semester: 5
-// Emergency Contact Name: Kashif
-// Emergency Contact No: +92 (300) 0422509
-// SS Number: Social Security No
-// NTN:
-// Private Email: chatif476@gmail.com
-// Office Phone: +22 (xx) xxxxxxx
-// Blood: A-
-// Passport No:
-// House No: House
-// Street No: Street
-// Colony Town: Colony
-// District: Faisalabad
-// Disability: False
-// Disability Details:
-// Is Criminal: False
-// Criminal Details: Criminal Details
-// CNIC: 33100-1430775-3
-// Is Hafiz: False
-// Is Admission Confirm: True
-// Deficiency Docs:
-// Section Name: B
-// Active From Account: True
-// Can Login:
-// Account Verify: True
-// Dsa Verify: True
-// Country Name: Pakistan
-// Dept Name: Department of Computing
-// City Name: Faisalabad
-// Tehsil Name: Faisalabad City
-// College Name: Riphah College Of Computing
-// Province: Punjab
-// Degree Name: BS Software Engineering
-// Degree Program Certificate Title: Fsc
-// Year Of Passing: 2019
-// Institute Name: Govt Comprehensive Higher Secondary School
-// Institute Catagory: Public
-// Institute Country: Pakistan
-// Exam Institute: Govt Comprehensive Higher Secondary School
-// Exam Institute Country: 1
-// CGPA/Obtained Marks: 670
-// Total CGPA/Total Marks: 1100
-// Awarded Grade: B
-// Total Cr Hours: 0
-// Transcript No: 437713
-// Result Declaration Date: 9/4/2019 10:12:20 AM
-// Degree OR Certificate No: 545569-IFR-2017
-// Degree OR Certificate Date: 9/4/2019 10:12:20 AM
-// Discipline OR Subject: Science
-// Sub Discipline OR Subject: Pre-Engineering
-// Project Research Title: Nill
+
+
+
 export default {
 
 }

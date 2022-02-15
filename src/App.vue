@@ -17,13 +17,10 @@ export default {
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap");
 * {
   font-family: "Lato", sans-serif;
-  scrollbar-width: thin;
+  scrollbar-width: 0;
 }
-body::-webkit-scrollbar {
-  width: 8px;
-}
-body::-webkit-scrollbar-thumb {
-  background: #616161;
-  border-radius: 50px;
+
+*::-webkit-scrollbar {
+  width: 0;
 }
 </style>
