@@ -1,4 +1,4 @@
-# Riphah Student and Teacher Portal Redesign With Vue 3 and Tailwindcss
+## Riphah Portal Redesign With Vue 3 and Tailwindcss
 This is the redesign of outdated riphah international portal with vue JS 3 and Tailwindcss.
 
 ## Project setup
